@@ -1,7 +1,7 @@
 # Install
 
 ```bash
-composer require mnshuhailey/Lumen-Key-Generator
+composer require mnshuhailey/lumen-key-generator
 ```
 
 
